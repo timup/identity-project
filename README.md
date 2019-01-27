@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-1. [Reading List](README.md#reading_list)
+1. [Reading List](README.md#reading-list)
 
 ## Reading List
 
