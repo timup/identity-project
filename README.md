@@ -14,3 +14,4 @@ The goal of The Identity Project is to explore the current state of human identi
 ## Definitions of Identity
 
 - [Philosophy](https://en.wikipedia.org/wiki/Identity_(philosophy))
+- [Logic](https://en.wikipedia.org/wiki/Law_of_identity)
