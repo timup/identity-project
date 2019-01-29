@@ -15,6 +15,7 @@ The goal of The Identity Project is to explore the current state of human identi
 
 ### To Read
 - _Difference and Repitition_ - Gilles Deleuze
+- [_On Denoting_](http://bactra.org/Russell/denoting/) - Bertrand Russell
 
 ## Definitions of Identity
 
