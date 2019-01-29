@@ -9,8 +9,12 @@ The goal of The Identity Project is to explore the current state of human identi
 
 ## Reading List
 
+### In Progress
+
 - _An Introduction to the Philosophy of Law_ - Roscoe Pound
-- TO_READ: _Difference and Repitition_ - Gilles Deleuze
+
+### To Read
+- _Difference and Repitition_ - Gilles Deleuze
 
 ## Definitions of Identity
 
