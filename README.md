@@ -4,19 +4,10 @@ The goal of The Identity Project is to explore the current state of human identi
 
 ## Table of Contents
 
-1. [Reading List](#reading-list)
-2. [Definitions of Identity](#definitions-of-identity)
-3. [Primary Questions](#primary-questions)
 
-## Reading List
-
-### In Progress
-
-- _An Introduction to the Philosophy of Law_ - Roscoe Pound
-
-### To Read
-- _Difference and Repitition_ - Gilles Deleuze
-- [_On Denoting_](http://bactra.org/Russell/denoting/) - Bertrand Russell
+1. [Definitions of Identity](#definitions-of-identity)
+2. [Primary Questions](#primary-questions)
+3. [Reading List](#reading-list)
 
 ## Definitions of Identity
 
@@ -27,3 +18,13 @@ The goal of The Identity Project is to explore the current state of human identi
 
 - What defines citizenship?
   - How is citizenship defined in America? What exactly does it mean to be an American citizen? How is this subdivided? Is the concept of citizenship consistent throughout the world? What are modern concepts of world citizenship?
+
+## Reading List
+
+### In Progress
+
+- _An Introduction to the Philosophy of Law_ - Roscoe Pound
+
+### To Read
+- _Difference and Repitition_ - Gilles Deleuze
+- [_On Denoting_](http://bactra.org/Russell/denoting/) - Bertrand Russell
